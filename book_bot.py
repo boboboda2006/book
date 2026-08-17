@@ -23,7 +23,7 @@ from telegram.ext import (
 
 # ====== الاعدادات ======
 
-TELEGRAM_TOKEN = os.getenv("TELEGRAM_TOKEN")
+BOT_TOKEN = os.getenv("BOT_TOKEN")
 
   # حط ايديك هنا الاول
 OWNER_ID = 5984493079 # انت - صاحب البوت
